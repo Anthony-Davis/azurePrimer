@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'primer-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A015C2505BF5404081A3A2D08A3F8D6A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3A8F36AD268246A19B811864106FAD27 }}
           package: '*.jar'
